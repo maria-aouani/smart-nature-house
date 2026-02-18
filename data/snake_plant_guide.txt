@@ -1,3 +1,5 @@
+# Author: Afsana | RAG Knowledge Base Data
+
 Snake Plant (Sansevieria) Care Guide
 
 
@@ -74,3 +76,4 @@ Solutions:
 - Check nearby plants for rot or fungus
 - Replace with healthy plant
 - Review greenhouse watering habits to avoid repeat problems
+
