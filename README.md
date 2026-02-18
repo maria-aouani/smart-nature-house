@@ -41,6 +41,7 @@ These challenges motivated the development of **Smart Nature**, which automates 
   * Camera data is sent to a Retrieval-Augmented Generation system.
   * Two external APIs are used to analyze plant condition and generate responses.
   * Users can interact with the system and receive insights based on observed plant health.
+  * RAG system developed by **Afsana** using LangChain, FAISS, and GROQ Llama 3.3.
 
 * **Prototype-Oriented Design**
 
@@ -137,5 +138,6 @@ This project is a functional prototype that demonstrates the feasibility and cor
 ## Contributors
 
 * **Islam** – Dataset Collection, System design, ML modeling, Hardware setup, Arduino integration, sensor calibration, Motor Setup
+* **Afsana** – RAG System Development (EcoBot), Knowledge Base Creation, Chatbot Application Development
 * **Maria** – Dataset Collection, AI integration
 
