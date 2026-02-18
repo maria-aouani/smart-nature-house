@@ -1,3 +1,4 @@
+# Author: Afsana | RAG Knowledge Base Data
 Spider Plant (Chlorophytum) Care Guide
 
 Common Causes of Damage:
@@ -91,3 +92,4 @@ Solutions:
 - Throw away soil and sterilize pot
 - Look for cause: water, humidity, pests, light
 - Adjust greenhouse conditions
+
