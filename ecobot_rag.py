@@ -1,3 +1,4 @@
+# Author: Afsana | EcoBot RAG System
 import os
 from pathlib import Path
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
@@ -242,4 +243,5 @@ if __name__ == "__main__":
     else:
         bot = load_existing_bot()
         if bot:
+
             bot.chat()
