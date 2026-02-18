@@ -1,3 +1,4 @@
+# Author: Afsana | RAG Knowledge Base Data
 Aloe Vera Care Guide
 
 Common Causes of Damage:
@@ -96,3 +97,4 @@ Solutions:
 - Clean pot with hot water
 - Reduce watering schedule for all succulents in greenhouse
 Keep new aloe in warm and dry area
+
