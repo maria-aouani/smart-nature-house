@@ -1,3 +1,4 @@
+# Author: Afsana | RAG System Development
 import streamlit as st
 from ecobot_rag import EcobotRAG
 import os
@@ -209,4 +210,5 @@ st.markdown("""
 <div style='text-align: center; color: gray;'>
     <small>Thanks for staying with Ecobot</small>
 </div>
+
 """, unsafe_allow_html=True)
