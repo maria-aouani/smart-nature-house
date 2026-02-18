@@ -1,3 +1,4 @@
+# Author: Afsana | RAG Knowledge Base Builder
 """
 Create Knowledge Base Documents for Ecobot RAG System
 Run this script to generate plant care documents
@@ -352,6 +353,7 @@ Common Causes of Plant Damage in Greenhouses:
 if __name__ == "__main__":
     create_knowledge_base()
     print("\n=== Knowledge Base Creation Complete ===")
+
 
 
 
